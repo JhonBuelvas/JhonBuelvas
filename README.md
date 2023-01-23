@@ -23,6 +23,6 @@ Descubrí mi pasión por el desarrollo de software hace 1 año, y desde entonces
 
 ## Contacto: 
 
-[![Email](https://img.shields.io/badge/jhonfredysbuelvas@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
+![Email](https://img.shields.io/badge/jhonfredysbuelvas@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
 </br>
 
