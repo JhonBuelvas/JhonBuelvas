@@ -22,6 +22,8 @@ Descubrí mi pasión por el desarrollo de software hace 1 año, y desde entonces
 
 ## Contacto: 
 
+[![Email](https://img.shields.io/badge/jhonfredysbuelvas@hotmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure @mouredev.com)
+</br>
 
 <!--
 **JhonBuelvas/JhonBuelvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
