@@ -19,7 +19,7 @@ Descubrí mi pasión por el desarrollo de software hace 1 año, y desde entonces
 [![Python](https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() </br>
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]() </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]() </br>
-[![C++](https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=c++&logoColor=white&labelColor=101010)]() </br>
+[![C++](https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=#00599C&logoColor=white&labelColor=101010)]() </br>
 
 ## Contacto: 
 
