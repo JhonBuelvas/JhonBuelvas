@@ -9,7 +9,7 @@ Descubrí mi pasión por el desarrollo de software hace 1 año, y desde entonces
 
 •	Liderazgo </br>
 •	Responsable </br>
-•	Trabajo en equipo </br>
+•	Trabajo en equipo (SCRUM) </br>
 •	Resolución de problemas </br>
 •	Manejo de estrés  </br>
 •	Resiliente </br>
