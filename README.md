@@ -1,6 +1,6 @@
 # Hola 👋, mi nombre es Jhon Fredys Buelvas
 
-### Desarrollar Jr. 
+## Desarrollar Jr. 
 
 Soy estudiante de Ingeniería Mecánica con gran pasión por el desarrollo de software. mi sueño es crecer como profesional dentro de la industria del desarrollo de software y fusionarla con la ingeniera mecánica. </br>
 Descubrí mi pasión por el desarrollo de software hace 1 año, y desde entonces e trabajado en pequeños proyectos de desarrollo de software web y de escritorio.  
