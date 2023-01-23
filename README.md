@@ -7,22 +7,22 @@ Descubrí mi pasión por el desarrollo de software hace 1 año, y desde entonces
 
 ## habilidades: 
 
-•	Liderazgo 
-•	Responsable 
-•	Trabajo en equipo
-•	Resolución de problemas
-•	Manejo de estrés  
-•	Resiliente 
+•	Liderazgo </br>
+•	Responsable </br>
+•	Trabajo en equipo </br>
+•	Resolución de problemas </br>
+•	Manejo de estrés  </br>
+•	Resiliente </br>
 
 ## Tecnologías:
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() </br>
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]() </br>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]() </br>
 
 ## Contacto: 
 
-[![Email](https://img.shields.io/badge/jhonfredysbuelvas@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]
+[![Email](https://img.shields.io/badge/jhonfredysbuelvas@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
 </br>
 
 <!--
